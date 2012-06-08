@@ -1,0 +1,4 @@
+Affymetrix File Format Descriptions:
+
+  - *.cel http://www.affymetrix.com/support/developer/powertools/changelog/gcos-agcc/cel.html
+  - *.cdf http://www.affymetrix.com/support/developer/powertools/changelog/gcos-agcc/cdf.html
